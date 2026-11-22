@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Personal Ledger</title>
+    <description>Updates for Personal Ledger on Windows.</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <description><![CDATA[
+        <h3>What's new in 1.0.0</h3>
+        <ul>
+          <li>Personal Ledger for Windows: your accounts, journal entries and reports, kept on this computer.</li>
+          <li>Updates arrive by themselves: new versions show "Update" in the top bar, small fixes "Restart to update".</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 22 Nov 2026 06:27:33 +0000</pubDate>
+      <enclosure url="https://github.com/ibrah006/personal_ledger-releases/releases/download/v1.0.0/personal_ledger-1.0.0-windows-setup.exe"
+                 sparkle:os="windows"
+                 sparkle:version="1.0.0+1"
+                 sparkle:shortVersionString="1.0.0"
+                 sparkle:dsaSignature="MDwCHBEOzX+2FlMrrJt0K24zTRkDcqrPlKYpSoJycNoCHC0P2BdNE03mBmMCkDTCygeSZo9hgahXJepawwY="
+                 sparkle:installerArguments="/SILENT /SP- /NOCANCEL"
+                 length="13094854"
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
