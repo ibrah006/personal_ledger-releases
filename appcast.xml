@@ -5,25 +5,25 @@
     <description>Updates for Personal Ledger on Windows.</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.2</title>
+      <title>Version 1.0.4</title>
       <description><![CDATA[
-        <h3>What's new in 1.0.2</h3>
+        <h3>What's new in 1.0.4</h3>
         <ul>
-          <li>A new look: Personal Ledger has its own icon, and a tidier top bar with your name beside your picture.</li>
-          <li>New journal entries suggest the account you usually use on the other side, and list your most-used accounts first.</li>
-          <li>Entries with a rate now show what you entered, the rate, and the amount posted, with clearly named columns.</li>
-          <li>Click any column heading to sort a table: the account ledger, journal entries, trial balance and activity log.</li>
-          <li>After updating, your desktop shortcut and taskbar pin show the new icon straight away.</li>
+          <li>Edit a posted journal entry: open it and choose Edit. It keeps its number, and the change is recorded in the activity log.</li>
+          <li>Delete a journal entry you no longer need. An entry and its reversal are deleted together. Entries in a locked period can't be edited or deleted.</li>
+          <li>Save a journal entry as a draft and finish it later. Your drafts wait under Drafts in Journal entries.</li>
+          <li>Compare your balance sheet with one from a spreadsheet (.xlsx or .csv): see which lines match, which differ and by how much, and what's only in one of them.</li>
+          <li>Buttons at the bottom of windows no longer get cut off when space is tight.</li>
         </ul>
       ]]></description>
-      <pubDate>Sun, 22 Nov 2026 14:26:24 +0000</pubDate>
-      <enclosure url="https://github.com/ibrah006/personal_ledger-releases/releases/download/v1.0.2/personal_ledger-1.0.2-windows-setup.exe"
+      <pubDate>Sun, 22 Nov 2026 17:03:27 +0000</pubDate>
+      <enclosure url="https://github.com/ibrah006/personal_ledger-releases/releases/download/v1.0.3/personal_ledger-1.0.3-windows-setup.exe"
                  sparkle:os="windows"
-                 sparkle:version="1.0.2+1"
-                 sparkle:shortVersionString="1.0.2"
-                 sparkle:dsaSignature="MD0CHQCFFCFZEMPWy5+9Bi6lQHvvgrm5y0abhFXNf/eKAhxE+KogAjA6Z7xrM82iDnTXfH6uLjUc1bcjaOEU"
+                 sparkle:version="1.0.4+1"
+                 sparkle:shortVersionString="1.0.4"
+                 sparkle:dsaSignature="MD0CHAixQr/OxhPOvxyA7qttU1karhPLdXOdy+5PpAwCHQDZ8ggf/S1GcuUJU0tBokwPSEeJDE0AnoloIgIb"
                  sparkle:installerArguments="/SILENT /SP- /NOCANCEL"
-                 length="13128585"
+                 length="13136864"
                  type="application/octet-stream"/>
     </item>
   </channel>
