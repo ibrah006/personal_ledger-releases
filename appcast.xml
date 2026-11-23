@@ -5,25 +5,23 @@
     <description>Updates for Personal Ledger on Windows.</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.4</title>
+      <title>Version 1.0.5</title>
       <description><![CDATA[
-        <h3>What's new in 1.0.4</h3>
+        <h3>What's new in 1.0.5</h3>
         <ul>
-          <li>Edit a posted journal entry: open it and choose Edit. It keeps its number, and the change is recorded in the activity log.</li>
-          <li>Delete a journal entry you no longer need. An entry and its reversal are deleted together. Entries in a locked period can't be edited or deleted.</li>
-          <li>Save a journal entry as a draft and finish it later. Your drafts wait under Drafts in Journal entries.</li>
-          <li>Compare your balance sheet with one from a spreadsheet (.xlsx or .csv): see which lines match, which differ and by how much, and what's only in one of them.</li>
-          <li>Buttons at the bottom of windows no longer get cut off when space is tight.</li>
+          <li>Personal Ledger opens only once: starting it again while it's open brings the open window to the front.</li>
+          <li>New account types: Owner's capital for your own money in the books, and Suspense for amounts still to sort out.</li>
+          <li>Entries brought in from spreadsheets are marked Imported, keep their rupee amount and rate, and can be edited like your own.</li>
         </ul>
       ]]></description>
-      <pubDate>Sun, 22 Nov 2026 17:03:27 +0000</pubDate>
-      <enclosure url="https://github.com/ibrah006/personal_ledger-releases/releases/download/v1.0.3/personal_ledger-1.0.3-windows-setup.exe"
+      <pubDate>Mon, 23 Nov 2026 11:44:11 +0000</pubDate>
+      <enclosure url="https://github.com/ibrah006/personal_ledger-releases/releases/download/v1.0.5/personal_ledger-1.0.5-windows-setup.exe"
                  sparkle:os="windows"
-                 sparkle:version="1.0.4+1"
-                 sparkle:shortVersionString="1.0.4"
-                 sparkle:dsaSignature="MD0CHAixQr/OxhPOvxyA7qttU1karhPLdXOdy+5PpAwCHQDZ8ggf/S1GcuUJU0tBokwPSEeJDE0AnoloIgIb"
+                 sparkle:version="1.0.5+1"
+                 sparkle:shortVersionString="1.0.5"
+                 sparkle:dsaSignature="MD0CHGph5oZYuN5x5ZdRwD/Sbe//v0/ggRvIS8ILaf8CHQDIgk++3RZgAdpNQfULGoz7/BWb1heH8NOvYjMj"
                  sparkle:installerArguments="/SILENT /SP- /NOCANCEL"
-                 length="13136864"
+                 length="13247239"
                  type="application/octet-stream"/>
     </item>
   </channel>
