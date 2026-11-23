@@ -5,23 +5,23 @@
     <description>Updates for Personal Ledger on Windows.</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.5</title>
+      <title>Version 1.0.6</title>
       <description><![CDATA[
-        <h3>What's new in 1.0.5</h3>
+        <h3>What's new in 1.0.6</h3>
         <ul>
-          <li>Personal Ledger opens only once: starting it again while it's open brings the open window to the front.</li>
-          <li>New account types: Owner's capital for your own money in the books, and Suspense for amounts still to sort out.</li>
-          <li>Entries brought in from spreadsheets are marked Imported, keep their rupee amount and rate, and can be edited like your own.</li>
+          <li>Search finds what you mean: type words in any order or only part of a word, and small spelling slips are forgiven ("nasurudin" finds "Nasrudin").</li>
+          <li>Global search lists the closest matches first.</li>
+          <li>The same search now works in journal entries, accounts, the account picker and the activity log.</li>
         </ul>
       ]]></description>
-      <pubDate>Mon, 23 Nov 2026 11:44:11 +0000</pubDate>
-      <enclosure url="https://github.com/ibrah006/personal_ledger-releases/releases/download/v1.0.5/personal_ledger-1.0.5-windows-setup.exe"
+      <pubDate>Mon, 23 Nov 2026 13:11:21 +0000</pubDate>
+      <enclosure url="https://github.com/ibrah006/personal_ledger-releases/releases/download/v1.0.6/personal_ledger-1.0.6-windows-setup.exe"
                  sparkle:os="windows"
-                 sparkle:version="1.0.5+1"
-                 sparkle:shortVersionString="1.0.5"
-                 sparkle:dsaSignature="MD0CHGph5oZYuN5x5ZdRwD/Sbe//v0/ggRvIS8ILaf8CHQDIgk++3RZgAdpNQfULGoz7/BWb1heH8NOvYjMj"
+                 sparkle:version="1.0.6+1"
+                 sparkle:shortVersionString="1.0.6"
+                 sparkle:dsaSignature="MDwCHBm9jguXv2HqW5U2Qq1ciC81ltJlDjsXVr5C48ACHGZcixG4YKRuKPNeJAhKJLsplXQfq+1vCSAweQI="
                  sparkle:installerArguments="/SILENT /SP- /NOCANCEL"
-                 length="13247239"
+                 length="13251329"
                  type="application/octet-stream"/>
     </item>
   </channel>
