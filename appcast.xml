@@ -5,24 +5,23 @@
     <description>Updates for Personal Ledger on Windows.</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.8</title>
+      <title>Version 1.0.9</title>
       <description><![CDATA[
-        <h3>What's new in 1.0.8</h3>
+        <h3>What's new in 1.0.9</h3>
         <ul>
-          <li>Find unlinked entries quickly: they're marked Unlinked in Journal entries, with their own filter.</li>
-          <li>Link an unlinked entry with its other side: open it and choose Link…. Personal Ledger lists the likely matches first (same amount, close dates), shows the combined entry before anything changes, and then keeps one entry, so the money is counted once.</li>
-          <li>If the two sides differ by a little, choose where the difference goes, or leave it in Unlinked to sort out later.</li>
-          <li>When you save an entry that records money an unlinked entry already holds, Personal Ledger asks whether to replace that entry, so nothing is counted twice.</li>
+          <li>Export Balance sheet to a printable PDF format</li>
+          <li>Export accounts to CSV, printable PDF</li>
+          <li>Change font size &amp; style</li>
         </ul>
       ]]></description>
-      <pubDate>Mon, 23 Nov 2026 17:58:43 +0000</pubDate>
-      <enclosure url="https://github.com/ibrah006/personal_ledger-releases/releases/download/v1.0.8/personal_ledger-1.0.8-windows-setup.exe"
+      <pubDate>Wed, 25 Nov 2026 18:40:42 +0000</pubDate>
+      <enclosure url="https://github.com/ibrah006/personal_ledger-releases/releases/download/v1.0.9/personal_ledger-1.0.9-windows-setup.exe"
                  sparkle:os="windows"
-                 sparkle:version="1.0.8+1"
-                 sparkle:shortVersionString="1.0.8"
-                 sparkle:dsaSignature="MDwCHD1E1iVQsfVvDnpomx+eygncAEPTdekLkVAUvZkCHCUT4rUH/bZNBFaoCDR8bgdyR+pZp7E/06f74yI="
+                 sparkle:version="1.0.9+1"
+                 sparkle:shortVersionString="1.0.9"
+                 sparkle:dsaSignature="MD4CHQDeHs5ZH3cSnFTTX0cqnt8s8iePLUGqgAAVjq14Ah0AizFIXgz/tIudrfXlJEKiBoL1U4+rqkoprMykew=="
                  sparkle:installerArguments="/SILENT /SP- /NOCANCEL"
-                 length="13290871"
+                 length="16363172"
                  type="application/octet-stream"/>
     </item>
   </channel>
