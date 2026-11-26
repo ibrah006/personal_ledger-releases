@@ -5,23 +5,21 @@
     <description>Updates for Personal Ledger on Windows.</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.9</title>
+      <title>Version 1.0.10</title>
       <description><![CDATA[
-        <h3>What's new in 1.0.9</h3>
+        <h3>What's new in 1.0.10</h3>
         <ul>
-          <li>Export Balance sheet to a printable PDF format</li>
-          <li>Export accounts to CSV, printable PDF</li>
-          <li>Change font size &amp; style</li>
+          <li>More PDF export formatting options</li>
         </ul>
       ]]></description>
-      <pubDate>Wed, 25 Nov 2026 18:40:42 +0000</pubDate>
-      <enclosure url="https://github.com/ibrah006/personal_ledger-releases/releases/download/v1.0.9/personal_ledger-1.0.9-windows-setup.exe"
+      <pubDate>Thu, 26 Nov 2026 05:06:50 +0000</pubDate>
+      <enclosure url="https://github.com/ibrah006/personal_ledger-releases/releases/download/v1.0.10/personal_ledger-1.0.10-windows-setup.exe"
                  sparkle:os="windows"
-                 sparkle:version="1.0.9+1"
-                 sparkle:shortVersionString="1.0.9"
-                 sparkle:dsaSignature="MD4CHQDeHs5ZH3cSnFTTX0cqnt8s8iePLUGqgAAVjq14Ah0AizFIXgz/tIudrfXlJEKiBoL1U4+rqkoprMykew=="
+                 sparkle:version="1.0.10+1"
+                 sparkle:shortVersionString="1.0.10"
+                 sparkle:dsaSignature="MD0CHET7e3GwE0z3dt1MtMRGjnJhBbaT2T3RxdnYtUUCHQCxVFBj1KjGCIHakbspsll2F0Q5D8SGr0o0UX48"
                  sparkle:installerArguments="/SILENT /SP- /NOCANCEL"
-                 length="16363172"
+                 length="16411299"
                  type="application/octet-stream"/>
     </item>
   </channel>
